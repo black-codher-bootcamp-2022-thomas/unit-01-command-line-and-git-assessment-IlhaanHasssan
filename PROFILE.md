@@ -1,4 +1,3 @@
 ##Ilhaan Hassan
-Hello my name is Ilhaan
-my favourite shows are 
-1. Greys Anatomy 
+what shall i tel you about myself ? hmm
+okay
