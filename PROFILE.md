@@ -1,5 +1,5 @@
 # **Ilhaan Hassan**
-👋 Hello, my name is Ilhaan, pronounced ***ill-haan***, *have a look at my avatar*(https://github.com/black-codher-bootcamp-2022-thomas/unit-01-command-line-and-git-assessment-IlhaanHasssan/blob/main/image/avatar.jpeg)
+👋 Hello, my name is Ilhaan, pronounced ***ill-haan***, ![have a look at my avatar](https://github.com/black-codher-bootcamp-2022-thomas/unit-01-command-line-and-git-assessment-IlhaanHasssan/blob/main/image/avatar.jpeg)
 
 ## Bio
 I previously studied biology briefly and I am now transitioning into a full-stack developer role. I love cooking, video games and painting in my spare time. I enjoy coding and I am currently part of the Thomas cohort with BlackCodher and Goldman Sachs with high hopes of going on to a tech role.
