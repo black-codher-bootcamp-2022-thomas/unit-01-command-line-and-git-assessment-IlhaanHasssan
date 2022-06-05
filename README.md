@@ -33,5 +33,4 @@ Your final repository should contain the following files and directories:
 
 Commit all created files and folders to the repo and push to your remote repo for assessment.
 
-Hello
 
