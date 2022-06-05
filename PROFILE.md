@@ -1,5 +1,5 @@
 # **Ilhaan Hassan**
-Hello, my name is Ilhaan, pronounced ***ill-haan***
+Hello, my name is Ilhaan, pronounced ***ill-haan*** ![Have a look at my avatar](unit-01-command-line-and-git-assessment-IlhaanHasssan ilhaankayser$/image/avatar.jpeg)
 
 ## Bio
 I previously studied Biology briefly and I am now transitioning into a full-stack developer role. I love cooking, video games and painting in my spare time. I enjoy coding and I am currently part of the Thomas cohort with BlackCodher and Goldman Sachs with high hopes of going on to a tech role.
@@ -21,3 +21,4 @@ I am a person who loves to try new things so I have a few hobbies and they're qu
     - I would like to gain a lot more clarity about how the tech industry works 
     - I would like to start a personal project building a website
     - I would like to learn a lot more about front-end development tools such as React
+    ![My favourite website:] (https://www.youtube.com/)
